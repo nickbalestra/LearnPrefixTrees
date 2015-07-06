@@ -8,7 +8,7 @@ learning style has been unabashedly stolen from [Hack Reactor](http://www.hackre
 Thanks for being awesome Hack Reactor! and Thanks for being awesome Adam!
 
 Prefix Tree, also known as Trie, are fascinating data structures for storing strings or other sequences in a way that allows for a fast look-up. For the sake of the excercise we aim to implement a prefixTree that can handle autocomplete for T9-style texting.
-For more information on this check out [my blog post](#####)
+For more information on this check out [my blog post](http://nick.balestra.ch/2015/Prefix-tree-data-structure/)
 , where I give an explanation on their structure and outline some instances where a developer may find them useful.
  If you find that this not enough information to fully implement a PrefixTree, feel free to drop me a line and request some
  clarification and I'll do my best to update the post with the new details.

@@ -6,6 +6,7 @@ If you want to learn how to make a prefix tree, of course!  This repo uses a tes
 double check your work and (hopefully) guide you through the process of creating your own prefix tree in javascript.  This
 learning style has been unabashedly stolen from [Hack Reactor](http://www.hackreactor.com/), where I am currently a student, and from [Adam Van Antwerp](https://github.com/TheAdamizer) that is currenlty shepherding us at Hack Reactor.
 Thanks for being awesome Hack Reactor! and Thanks for being awesome Adam!
+The idea of releasing this repo has been givien to me by [Evan Hackett](https://github.com/evanhackett), our Tech HD at Hack reactor. Thanks for such amazing support Evan!
 
 Prefix Tree, also known as Trie, are fascinating data structures for storing strings or other sequences in a way that allows for a fast look-up. For the sake of the excercise we aim to implement a prefixTree that can handle autocomplete for T9-style texting.
 For more information on this check out [my blog post](http://nick.balestra.ch/2015/Prefix-tree-data-structure/)

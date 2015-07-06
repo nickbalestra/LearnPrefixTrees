@@ -46,13 +46,13 @@ describe('PrefixTree', function() {
   });
 
   // (Extra credit! Remove the extra "x" when you want the following tests to run)
-  it('it should be case insensitive', function() {
+  xit('it should be case insensitive', function() {
     var returned = prefixTree.insert("hELlO");
     expect(prefixTree.getSuggestions("32445").indexOf("hello") >= 0).to.equal(true);
   });
 
 
-  it('it should be able to suggest only worlds with max 2 characters longer', function() {
+  xit('it should be able to suggest only worlds with max 2 characters longer', function() {
     prefixTree.insert("hello");
     prefixTree.insert("helloo");
     prefixTree.insert("hellooo");
@@ -60,7 +60,7 @@ describe('PrefixTree', function() {
     expect(suggestions.length).to.equal(2);
   });
 
-  it('it should be able to suggest only worlds with max 3 characters longer', function() {
+  xit('it should be able to suggest only worlds with max 3 characters longer', function() {
     prefixTree.insert("hello");
     prefixTree.insert("helloo");
     prefixTree.insert("hellooo");

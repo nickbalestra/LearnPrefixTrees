@@ -19,7 +19,7 @@ For more information on this check out [my blog post](#####)
  Open up SpecRunner.html in a browser and initially you're going to see a lot of red.  These are your failing tests that you
  should make pass!
 
- ![Failing SpecRunner](#####)
+ ![Failing SpecRunner](https://raw.githubusercontent.com/nickbalestra/LearnPrefixTrees/master/lib/img/prefixTreeFail.png)
 
  These tests require you to create a Prefix Tree object using the well used [pseudo-classical instantiation](http://nick.balestra.ch/2015/classes-and-instantiation-patterns-in-javascript/)
  pattern.  If this doesn't appeal to you, feel free to fork my repo and make one with tests assuming a different pattern.
@@ -28,10 +28,10 @@ For more information on this check out [my blog post](#####)
 Keep working to meet the specified tests.  If you need more clarification on what the tests are looking for, click on the
 specific requirement in SpecRunner.html and it will show you the mocha tests that need to pass.
 
-![Expanded requirement](#####)
+![Expanded requirement](https://raw.githubusercontent.com/nickbalestra/LearnPrefixTrees/master/lib/img/prefixTreeFailDetails.png)
 
 Keep coding away and you'll start to see some green.  Eventually you'll have a SpecRunner.html that looks like this:
 
-![Passing tests](#####)
+![Passing tests](https://raw.githubusercontent.com/nickbalestra/LearnPrefixTrees/master/lib/img/prefixTreePass.png)
 
 and then you should have successfully implemented a a prefixTree !
